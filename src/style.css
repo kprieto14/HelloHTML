@@ -15,14 +15,20 @@ body {
 
 h1 {
   font-family: Bagel Fat One;
+  font-size: 50px;
   padding: 2rem;
   color: #a57bdf;
 }
 
 h2 {
   font-family: Amatic Sc;
+  font-size: 40px;
   padding: 1.5rem;
   color: #f5a9b8;
+}
+
+img {
+  width: 125px;
 }
 
 table {
@@ -44,4 +50,9 @@ th:hover {
 
 td {
   padding: 1.5rem;
+}
+
+.crochet-pics {
+  width: 500px;
+  height: 500px;
 }
