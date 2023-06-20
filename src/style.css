@@ -14,12 +14,14 @@ body {
 }
 
 h1 {
-  padding: 3rem;
+  font-family: Bagel Fat One;
+  padding: 2rem;
   color: #a57bdf;
 }
 
 h2 {
-  padding: 2rem;
+  font-family: Amatic Sc;
+  padding: 1.5rem;
   color: #f5a9b8;
 }
 
